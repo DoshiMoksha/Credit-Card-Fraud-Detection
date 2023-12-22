@@ -1,4 +1,4 @@
-# DAMG Project:  Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
 
 ### DAMG 7245 - Big Data and Intelligent Analytics 
